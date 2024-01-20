@@ -56,4 +56,4 @@ Handle edge cases (e.g., what if the string is empty?).
 Improve efficiency and readability.
 Add comments and documentation.
 
-[List of signals] (https://www-uxsup.csx.cam.ac.uk/courses/moved.Building/signals.pdf)
+[List of signals](https://www-uxsup.csx.cam.ac.uk/courses/moved.Building/signals.pdf)
