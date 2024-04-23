@@ -14,6 +14,7 @@ This project's goal is to use *UNIX signals* to develop a tiny data exchange pro
 - `server` & `client` executables
 - `client` must communicate a string that is passed as a parameter to `server` *(referenced by server's process ID)* upon which the server then displays it
 - Use `SIGUSR1` & `SIGUSR2` signals **ONLY**
+- Follow the `Norminette` coding style
 
 ### Bonus
 
