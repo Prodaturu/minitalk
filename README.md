@@ -37,4 +37,4 @@ This project's goal is to use *UNIX signals* to develop a tiny data exchange pro
 
 ### Acknowledgement
 
-Special thanks to Arvind Dhaka (intra 42: adhaka) and Akram Guediri (intra 42: aguediri) for helping me with the concepts of signals in C.
+Special thanks to [Akram Guediri](https://github.com/akramguediri) (intra 42: [aguediri](https://profile.intra.42.fr/users/aguediri)) and [Arvind Dhaka](https://profile.intra.42.fr/users/adhaka) (intra 42: [adhaka](https://profile.intra.42.fr/users/adhaka)) for helping me with the concepts of signals in C.
